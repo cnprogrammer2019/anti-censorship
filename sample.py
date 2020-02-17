@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+#
 # @Time: 2020-02-01 17:16
 # @Project: anti-censorship
 # @Version: 2020.02 builder 011716
 # @Author: Peter Ren
 # @Email: cnprogrammer@126.com
-# @Github: https://github.com/cnprogrammer2019
+# @Github: https://github.com/cnprogrammer2019/anti-censorship
 # @Site: http://renpeter.com
 # @File : sample.py
 # @Software: PyCharm
-
-
+#
 import lib.interfere as ii
 from PIL import Image
 

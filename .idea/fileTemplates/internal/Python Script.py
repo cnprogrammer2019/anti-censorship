@@ -6,7 +6,7 @@
 # @Version: ${YEAR}.${MONTH} builder ${DAY}${HOUR}${MINUTE}
 # @Author: Peter Ren
 # @Email: cnprogrammer@126.com
-# @Github: https://github.com/cnprogrammer2019
+# @Github: https://github.com/cnprogrammer2019/${PROJECT_NAME}
 # @Site: http://renpeter.com
 # @File : ${NAME}.py
 # @Software: ${PRODUCT_NAME}

@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+#
 # @Time: 2020-02-01 17:13
 # @Project: anti-censorship
 # @Version: 2020.02 builder 011713
 # @Author: Peter Ren
 # @Email: cnprogrammer@126.com
-# @Github: https://github.com/cnprogrammer2019
+# @Github: https://github.com/cnprogrammer2019/anti-censorship
 # @Site: http://renpeter.com
 # @File : interfere.py
 # @Software: PyCharm
+#
 """
 有些网站贴图会有一些莫名其妙的审查，采用一定的策略可以规避被错杀
 """

@@ -13,9 +13,13 @@
 #
 import lib.interfere as ii
 from PIL import Image
+import sys
 
 
-image_file_path = r'image/s.jpeg'
+try:
+    image_file_path = sys.argv[1]
+except:
+    image_file_path = r'image/s.jpeg'
 old_image = Image.open(image_file_path)
 saved_image_quality = 10
 
